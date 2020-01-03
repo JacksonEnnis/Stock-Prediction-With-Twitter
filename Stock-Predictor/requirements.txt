@@ -1,5 +1,0 @@
-npyscreen
-termcolor
-colorama
-sklearn
-yahoo-historical
